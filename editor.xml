@@ -8,4 +8,8 @@
     <option name="FONT_FAMILY" value="Fira Code" />
     <option name="LINE_SPACING" value="1.1" />
   </component>
+  <component name="TodoConfiguration">
+    <pattern pattern="\btodo\b.*" />
+    <pattern pattern="\bfixme\b.*" />
+  </component>
 </application>
